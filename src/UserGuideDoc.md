@@ -35,8 +35,11 @@
 但如需使用提供的 `自定义替换素材`，你仍需要手动前往仓库，下载主题包解压后，将 `自定义替换文件夹` 内你所需要替换的素材导入到相应主题的 `DIY` 文件夹) <br><br>
 
 ### 线上版和开源版区别
+线上版拥有`快速及时更新`特权。
+<img src="https://github.com/AidenYang1/IMessage_ThemeDocs/blob/9a81bd23aa40f409da4bbcb45b43f1552472ffe9/contributorsOnly.png" alt="贡献者优先" height="auto">
 
-（注意：`线上版` 唯一好处只用于快速更新，再 `无其他区别`。）
+~~（注意：`线上版` 唯一好处只用于快速更新，再 `无其他区别`。）~~
+
 
 <br><br>
 <img src="https://github.com/AidenYang1/iMessageApp_WeChat_For_Themebox/blob/716e0700645f4cbd7ecbee3cdc8af76946efa219/png/gift.gif" alt="兑换码获取" height="auto">
