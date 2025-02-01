@@ -36,7 +36,10 @@
 
 ### 线上版和开源版区别
 线上版拥有`快速及时更新`特权。
-<img src="https://github.com/AidenYang1/IMessage_ThemeDocs/blob/9a81bd23aa40f409da4bbcb45b43f1552472ffe9/contributorsOnly.png" alt="贡献者优先" height="auto" width="960px">
+
+<br>
+
+<img src="https://github.com/AidenYang1/IMessage_ThemeDocs/blob/9a81bd23aa40f409da4bbcb45b43f1552472ffe9/contributorsOnly.png" alt="贡献者优先" height="auto" width="500px">
 
 ~~（注意：`线上版` 唯一好处只用于快速更新，再 `无其他区别`。）~~
 
