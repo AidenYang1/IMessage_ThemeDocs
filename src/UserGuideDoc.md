@@ -28,7 +28,7 @@
 > 使用 `Themebox` 兑换码兑换的请直接通过 `Themebox` -右上方的 `空投箱` 下载, 下载后启用本主题即可，详细使用配置请参照第四章节。
 > 已有兑换码还未兑换？前往 [Themebox 主题兑换](https://theme.25mao.com/)进行兑换。
 
-<img src="https://github.com/AidenYang1/iMessageApp_WeChat_For_Themebox/blob/9ce3216e3aacba778bcd993d9dd9bc27811b72d5/png/%E9%80%9A%E8%BF%87%E5%85%91%E6%8D%A2%E7%A0%81%E5%85%91%E6%8D%A2%E6%9C%AC%E4%B8%BB%E9%A2%98.png" alt="拷贝文件夹设置" height="auto">
+<img src="https://raw.githubusercontent.com/AidenYang1/iMessageApp_WeChat_For_Themebox/9ce3216e3aacba778bcd993d9dd9bc27811b72d5/png/%E9%80%9A%E8%BF%87%E5%85%91%E6%8D%A2%E7%A0%81%E5%85%91%E6%8D%A2%E6%9C%AC%E4%B8%BB%E9%A2%98.png" alt="兑换码下载主题" height="auto">
 
 <br><br>
 通过此方法可以直接通过主题插件的主题更新提示 `直接更新`，无需手动下载主题包。
@@ -67,7 +67,7 @@
 
 ## 3.1. 如果你是通过其他作者的主题加载 DIY 素材，文件夹你拷对了吗？
 
-<img src="https://github.com/AidenYang1/iMessageApp_WeChat_For_Themebox/blob/a7f92e918b155d8d658a09a3ce96b434b0aceaf9/png/%E6%8B%B7%E8%B4%9D%E6%96%87%E4%BB%B6%E5%A4%B9%E6%93%8D%E4%BD%9C.gif" alt="拷贝文件夹设置" width="350" height="auto">
+<img src="https://raw.githubusercontent.com/AidenYang1/iMessageApp_WeChat_For_Themebox/a7f92e918b155d8d658a09a3ce96b434b0aceaf9/png/%E6%8B%B7%E8%B4%9D%E6%96%87%E4%BB%B6%E5%A4%B9%E6%93%8D%E4%BD%9C.gif" alt="拷贝文件夹设置" width="350" height="auto">
 
 <br><br>
 
@@ -113,7 +113,7 @@
 
 为获得最好的显示效果，推荐前往微信 `设置` - `通用` - `字体大小` 设置字体大小为 `标准以下`。
 <br><br>
-<img src="https://github.com/AidenYang1/iMessageApp_WeChat_For_Themebox/blob/321ea0879e05dcef185fc6197337cd9190e95d5a/png/%E5%BE%AE%E4%BF%A1%E5%AD%97%E4%BD%93%E8%AE%BE%E7%BD%AE.png" alt="微信字体大小设置" width="350" height="auto">
+<img src="https://raw.githubusercontent.com/AidenYang1/iMessageApp_WeChat_For_Themebox/321ea0879e05dcef185fc6197337cd9190e95d5a/png/%E5%BE%AE%E4%BF%A1%E5%AD%97%E4%BD%93%E8%AE%BE%E7%BD%AE.png" alt="微信字体大小设置" width="350" height="auto">
 
 <br><br>
 
@@ -123,7 +123,7 @@
 
 ### 4.2.1. 示例图
 
-![主题盒子设置](https://github.com/AidenYang1/iMessageApp_WeChat_For_Themebox/blob/a3233ddc9841d9986f2698791be0dc08a69ed7c9/png/%E4%B8%BB%E9%A2%98%E7%9B%92%E5%AD%90%E8%AE%BE%E7%BD%AE%E8%AF%B4%E6%98%8E.png)
+![主题盒子设置](https://raw.githubusercontent.com/AidenYang1/iMessageApp_WeChat_For_Themebox/a3233ddc9841d9986f2698791be0dc08a69ed7c9/png/%E4%B8%BB%E9%A2%98%E7%9B%92%E5%AD%90%E8%AE%BE%E7%BD%AE%E8%AF%B4%E6%98%8E.png)
 
 <div align="center">（完整设置参照图）</div>
 <br>
@@ -231,7 +231,7 @@
 2. 拷贝你想要的 `红包转账气泡封面背景样式文件夹` 内 `所有文件` 到 `Themebox` - `diy` - `其他主题` - `WeChat-iMessage-Themebox` - `Assets` 内覆盖替换本主题默认红包转账气泡背景封面即可。
 
 <br>
-<img src="https://github.com/AidenYang1/iMessageApp_WeChat_For_Themebox/blob/a7f92e918b155d8d658a09a3ce96b434b0aceaf9/png/%E6%9B%BF%E6%8D%A2%E7%BA%A2%E5%8C%85%E8%BD%AC%E8%B4%A6%E6%B0%94%E6%B3%A1.gif" alt="替换红包转账气泡背景封面" >
+<img src="https://raw.githubusercontent.com/AidenYang1/iMessageApp_WeChat_For_Themebox/a7f92e918b155d8d658a09a3ce96b434b0aceaf9/png/%E6%9B%BF%E6%8D%A2%E7%BA%A2%E5%8C%85%E8%BD%AC%E8%B4%A6%E6%B0%94%E6%B3%A1.gif" alt="替换红包转账气泡背景封面" >
 
 <br>
 如果你想要自己制作 `红包转账气泡背景`，请参照:<br>
@@ -276,7 +276,7 @@
 
 ## 7.2. 怎么解决消息气泡拉伸错位问题？
 
-<img src="https://github.com/AidenYang1/iMessageApp_WeChat_For_Themebox/blob/4940b18e88ec064e99043318d6ccece31a5e33d2/png/%E6%B0%94%E6%B3%A1%E4%B8%8D%E6%8B%89%E4%BC%B8%E8%AF%B4%E6%98%8E.png" alt="气泡拉伸不错位修改" width="450" height="auto">
+<img src="https://raw.githubusercontent.com/AidenYang1/iMessageApp_WeChat_For_Themebox/4940b18e88ec064e99043318d6ccece31a5e33d2/png/%E6%B0%94%E6%B3%A1%E4%B8%8D%E6%8B%89%E4%BC%B8%E8%AF%B4%E6%98%8E.png" alt="气泡拉伸不错位修改" width="450" height="auto">
 
 <br><br>
 
@@ -289,7 +289,7 @@
 
 ## 7.3. 消息输入栏上方的图标是什么？
 
-<img src="https://github.com/AidenYang1/iMessageApp_WeChat_For_Themebox/blob/7486c5e28465bfe00cc0f30994fb60333012833b/png/%E5%BE%AE%E4%BF%A1%E5%8A%A9%E6%89%8B%E5%8D%A0%E4%BD%8D%E5%9B%BE.png" alt="小横线" width="450" height="auto">
+<img src="https://raw.githubusercontent.com/AidenYang1/iMessageApp_WeChat_For_Themebox/7486c5e28465bfe00cc0f30994fb60333012833b/png/%E5%BE%AE%E4%BF%A1%E5%8A%A9%E6%89%8B%E5%8D%A0%E4%BD%8D%E5%9B%BE.png" alt="小横线" width="450" height="auto">
 
 <br><br>
 
@@ -306,7 +306,7 @@
 你可能会注意到 `聊天界面气泡长按功能操作区` 的图标有 `彩色` 和 `纯白色` 图标混合的情况。<br>
 这并非针对这个区域未做适配，当你仔细和官方操作区图标对比，你会发现纯白色的图标也不同。
 
-<img src="https://github.com/AidenYang1/iMessageApp_WeChat_For_Themebox/blob/1e4c59e4066930a2e02fc451e470fa534115a0f9/png/%E6%B0%94%E6%B3%A1%E9%95%BF%E6%8C%89%E5%8A%9F%E8%83%BD%E5%8C%BA%E6%93%8D%E4%BD%9C%E8%AF%B4%E6%98%8E.png" alt="气泡长按功能区说明图"  width="400" height="auto">
+<img src="https://raw.githubusercontent.com/AidenYang1/iMessageApp_WeChat_For_Themebox/1e4c59e4066930a2e02fc451e470fa534115a0f9/png/%E6%B0%94%E6%B3%A1%E9%95%BF%E6%8C%89%E5%8A%9F%E8%83%BD%E5%8C%BA%E6%93%8D%E4%BD%9C%E8%AF%B4%E6%98%8E.png" alt="气泡长按功能区说明图"  width="400" height="auto">
 
 <br>
 <br>
@@ -340,7 +340,7 @@
 
 ## 7.7. 新版深色模式下聊天页为什么还隐约有一条小横线？
 
-<img src="https://github.com/AidenYang1/iMessageApp_WeChat_For_Themebox/blob/04a268d267ed57e9ee80606fc369424c2f4740ff/png/%E9%A1%B6%E6%A0%8F%E5%B0%8F%E6%A8%AA%E7%BA%BF.png" alt="小横线" width="400" height="auto">
+<img src="https://raw.githubusercontent.com/AidenYang1/iMessageApp_WeChat_For_Themebox/04a268d267ed57e9ee80606fc369424c2f4740ff/png/%E9%A1%B6%E6%A0%8F%E5%B0%8F%E6%A8%AA%E7%BA%BF.png" alt="小横线" width="400" height="auto">
 <br><br>
 
 > 更新
