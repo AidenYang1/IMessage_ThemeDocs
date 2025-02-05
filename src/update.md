@@ -6,6 +6,7 @@
 
 继续使用`v1.2.3`版本，自行基于部分命名适配，**但不再提供素材**。
 
+<br><br>
 
 # 2.更新
 
@@ -16,7 +17,7 @@
 
 
 
-<br>
+<br><br>
 
 #### 自己从0制作一份主题？参考完整 [《主题适配指南》](https://github.com/AidenYang1/ThemeDocs_WeChat_For_Themebox)（请爬🪜）。
 
