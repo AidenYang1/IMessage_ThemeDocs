@@ -350,7 +350,7 @@ WeChat版本`8.0.56`若遇到聊天页底栏上方`微信助手`插件工具栏�
 
 ## 7.6. 首页搜索栏的图标为什么有白底？
 
-<img src="https://raw.githubusercontent.com/AidenYang1/iMessageApp_WeChat_For_Themebox/04a268d267ed57e9ee80606fc369424c2f4740ff/png/%E9%A6%96%E9%A1%B5%E6%90%9C%E7%B4%A2%E6%A0%8F%E7%99%BD%E5%BA%95%E8%AF%B4%E6%98%8E.png" alt="首页搜索栏白底说明图" width="400" height="auto">
+<img src="https://github.com/AidenYang1/IMessage_ThemeDocs/blob/main/src/png/%E9%A6%96%E9%A1%B5%E6%90%9C%E7%B4%A2%E7%95%99%E7%99%BD.png?raw=true" alt="首页搜索栏白底说明图" width="400" height="auto">
 
 故意那么设计的，为了点缀。留透明不好看。
 
@@ -372,10 +372,11 @@ WeChat版本`8.0.56`若遇到聊天页底栏上方`微信助手`插件工具栏�
 <br><br>
 
 ## 7.8. 如何替换蓝色角标为红色角标？
+<img src="https://github.com/AidenYang1/IMessage_ThemeDocs/blob/main/src/png/%E8%A7%92%E6%A0%87%E6%9B%BF%E6%8D%A2.png?raw=true" alt="红色角标说明图" width="400" height="auto">
 
+<br><br>
 
-红色角标文件已在频道中发布，请前往频道获取 `红色角标` 素材。
-并按照自定义替换说明`章节6`替换。
+红色角标文件已在频道中发布，请前往频道获取 `红色角标` 素材。并按照自定义替换说明`章节6`替换。
 
 - 替换的文件存放在 `Themebox` - `diy` - `主题文件夹` 内。在选择 `自定义优先` 模式下，会优先加载 `diy` 内的文件。无需每次更新重复替换，会一直保持`红色角标`。
 
@@ -387,6 +388,9 @@ WeChat版本`8.0.56`若遇到聊天页底栏上方`微信助手`插件工具栏�
 <br><br>
 
 ## 7.10. 使用收纳工具如何设置相应图标？
+<img src="https://github.com/AidenYang1/IMessage_ThemeDocs/blob/main/src/png/%E5%BE%AE%E4%BF%A1%E5%8A%A9%E6%89%8B%E5%A4%B4%E5%83%8F%E8%AE%BE%E7%BD%AE.png?raw=true" alt="收纳工具图标设置说明图" width="400" height="auto">
+<br><br>
+
 在使用`微信助手`插件-`分组功能`的聊天消息收纳功能（即`群助手`、`服务号助手`、`订阅号助手`）时，可以设置收纳工具栏的图标。
 
 - 群消息助手对应：`小程序客服头像`
@@ -396,10 +400,13 @@ WeChat版本`8.0.56`若遇到聊天页底栏上方`微信助手`插件工具栏�
 <br><br>
 
 ## 7.11. 如何替换对方消息气泡的起点方向？
+<img src="https://github.com/AidenYang1/IMessage_ThemeDocs/blob/main/src/png/%E6%B6%88%E6%81%AF%E6%B0%94%E6%B3%A1%E6%96%B9%E5%90%91%E5%AF%B9%E6%AF%94.png?raw=true" alt="对方消息气泡起点方向说明图" width="400" height="auto">
+<br><br>
+
 在`v1.2.3`版本中发起了投票，超过60%用户希望保留左下↙起点方向。故放弃使用左上↖起点。
 
-- 优势：双方气泡协调方向一致，显示观感更舒适。
-- 劣势：在群聊中，对方消息存在多行的情况下，气泡起点的方向不会指向发言人的头像。会造成一定几率的误判。
+- **优势**：双方气泡协调方向一致，显示观感更舒适。
+- **劣势**：在群聊中，对方消息存在多行的情况下，气泡起点的方向不会指向发言人的头像。会造成一定几率的误判。
 
 虽投票结果已定，但仍保留了左上起点方向的自定义素材。你可前往`01供替换的素材`内找到`对方消息起点方向`文件夹，根据需要替换。
 
