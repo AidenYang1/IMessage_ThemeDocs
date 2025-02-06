@@ -350,7 +350,7 @@ WeChat版本`8.0.56`若遇到聊天页底栏上方`微信助手`插件工具栏�
 
 ## 7.6. 首页搜索栏的图标为什么有白底？
 
-
+<img src="https://raw.githubusercontent.com/AidenYang1/iMessageApp_WeChat_For_Themebox/04a268d267ed57e9ee80606fc369424c2f4740ff/png/%E9%A6%96%E9%A1%B5%E6%90%9C%E7%B4%A2%E6%A0%8F%E7%99%BD%E5%BA%95%E8%AF%B4%E6%98%8E.png" alt="首页搜索栏白底说明图" width="400" height="auto">
 
 故意那么设计的，为了点缀。留透明不好看。
 
@@ -372,6 +372,8 @@ WeChat版本`8.0.56`若遇到聊天页底栏上方`微信助手`插件工具栏�
 <br><br>
 
 ## 7.8. 如何替换蓝色角标为红色角标？
+
+
 红色角标文件已在频道中发布，请前往频道获取 `红色角标` 素材。
 并按照自定义替换说明`章节6`替换。
 
