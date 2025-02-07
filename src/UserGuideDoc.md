@@ -1,5 +1,7 @@
-> 【更新📢】开源版生命周期服务已结束，覆盖率75%。已归档为v1.2.3。红包转账卡组仍可用更新。线上版持续适配。
+> 【更新 📢】开源版生命周期服务已结束，覆盖率 75%。已归档为 v1.2.3。红包转账卡组仍可用更新。线上版持续适配。
+
 # 阅读本指南可以帮你解决大部分困惑
+
 # 如有问题去哪反馈？
 
 > 【更新】唯一通知频道： https://t.me/+D2y5GDOB8F41YmRl
@@ -28,17 +30,17 @@
 > 使用 `Themebox` 兑换码兑换的请直接通过 `Themebox` -右上方的 `空投箱` 下载, 下载后启用本主题即可，详细使用配置请参照第四章节。
 > 已有兑换码还未兑换？前往 [Themebox 主题兑换](https://theme.25mao.com/)进行兑换。
 
-<img src="https://gitee.com/aidenyang1/IMessage_ThemeDocs/raw/main/src/png/%E9%80%9A%E8%BF%87%E5%85%91%E6%8D%A2%E7%A0%81%E5%85%91%E6%8D%A2%E6%9C%AC%E4%B8%BB%E9%A2%98.png" alt="兑换码下载主题" height="auto">
+<img src="https://worker.imtheme.site/FxtxdIV.png" alt="兑换码下载主题" height="auto">
 
 <br><br>
 通过此方法可以直接通过主题插件的主题更新提示 `直接更新`，无需手动下载主题包。
 但如需使用提供的 `自定义替换素材`，你仍需要手动前往仓库，下载主题包解压后，将 `自定义替换文件夹` 内你所需要替换的素材导入到相应主题的 `DIY` 文件夹) <br><br>
 
 ### 线上版和开源版区别
+
 - 线上版`快速及时更新、及时适配微信更新`。
 - 开源版已归档，生命周期服务结束于`v1.2.3`版本。
-（你仍可使用开源免费版本，并使用红包转账卡组，但需要自行适配新图标。）
-
+  （你仍可使用开源免费版本，并使用红包转账卡组，但需要自行适配新图标。）
 
 <br>
 
@@ -67,7 +69,7 @@
 
 ## 3.1. 如果你是通过其他作者的主题加载 DIY 素材，文件夹你拷对了吗？
 
-<img src="https://gitee.com/aidenyang1/IMessage_ThemeDocs/raw/main/src/png/%E6%8B%B7%E8%B4%9D%E6%96%87%E4%BB%B6%E5%A4%B9%E6%93%8D%E4%BD%9C.gif" alt="拷贝文件夹设置" width="350" height="auto">
+<img src="https://worker.imtheme.site/Ew95iek.gif" width="350" height="auto">
 
 <br><br>
 
@@ -113,7 +115,7 @@
 
 为获得最好的显示效果，推荐前往微信 `设置` - `通用` - `字体大小` 设置字体大小为 `标准以下`。
 <br><br>
-<img src="https://gitee.com/aidenyang1/IMessage_ThemeDocs/raw/main/src/png/%E5%BE%AE%E4%BF%A1%E5%AD%97%E4%BD%93%E8%AE%BE%E7%BD%AE.png" alt="微信字体大小设置" width="350" height="auto">
+<img src="https://worker.imtheme.site/oJy7nOW.png" alt="微信字体大小设置" width="350" height="auto">
 
 <br><br>
 
@@ -123,7 +125,7 @@
 
 ### 4.2.1. 示例图
 
-![主题盒子设置](https://gitee.com/aidenyang1/IMessage_ThemeDocs/raw/main/src/png/%E4%B8%BB%E9%A2%98%E7%9B%92%E5%AD%90%E8%AE%BE%E7%BD%AE%E8%AF%B4%E6%98%8E.png)
+![主题盒子设置](https://worker.imtheme.site/0pMiQqc.png)
 
 <div align="center">（完整设置参照图）</div>
 <br>
@@ -142,6 +144,7 @@
 <br>
 
 **可选操作**：
+
 - 全局分割线`透明`开启。
 - 输入框占位文字。如 `iMessage`
 - 语言按钮占位文字。如 `Hold to Talk`
@@ -153,6 +156,7 @@
 - `私信隐藏双方头像` 启用。
 
 **可选操作**：
+
 - `聊天隐藏自己头像`开启。（在群聊中隐藏我方头像）
 
 其他根据需要启用。（建议不要启用 `全局布局修改`）
@@ -168,19 +172,14 @@
 
 ### 4.3.4. 配色管理
 
-
 > 更新：
 > 自`Themebox1.1.5`版本开始，`配色管理`可以`重置所有颜色`(操作位于配色管理最底部)。如你已设置任意选项颜色色值，均可重置。
-
-
-
 
 - 我发送的亮色：`#FFFFFF`
 - 我发送的深色：`#FFFFFF`
 - 修改红包/转账颜色:`#FFFFFF`（亮色深色模式相同值）
 
 若要保持对方消息字体颜色动态变化。可以直接不再设置`对方发送深色`、`对方发送亮色`消息字体设置。这将保持`对方字体颜色`、`红包转账封面字体颜色`的按照微信默认设置跟随系统深色模式`自动变换`。
-
 
 <br>
 
@@ -193,7 +192,6 @@
 
 **`线上版`已默认设置，无需手动解决该问题。**
 
-
 <br>
 
 ### 4.3.5. 背景动画
@@ -203,19 +201,19 @@
 <br>
 
 ### 4.3.6. 动态背景与背景视频
+
 位于`主题选项`菜单界面中。可自由设置。
 
 - 本主题暂时不提供`动态背景`素材。
 - `背景视频`素材可使用任意视频加载。
+
 ---
 
 <br><br><br>
 
 # 5. 供替换的素材
 
-> 无论你使用线上版还是使用其他主题DIY加载，都可以使用主题包文件夹内提供的 `供替换素材` 文件夹替换 `红包转账气泡卡组`、`气泡颜色`、`底栏样式` 等。
-
-
+> 无论你使用线上版还是使用其他主题 DIY 加载，都可以使用主题包文件夹内提供的 `供替换素材` 文件夹替换 `红包转账气泡卡组`、`气泡颜色`、`底栏样式` 等。
 
 ## 5.1. 红包转账气泡封面的替换
 
@@ -227,7 +225,7 @@
 2. 拷贝你想要的 `红包转账气泡封面背景样式文件夹` 内 `所有文件` 到 `Themebox` - `diy` - `其他主题` - `WeChat-iMessage-Themebox` - `Assets` 内覆盖替换本主题默认红包转账气泡背景封面即可。
 
 <br>
-<img src="https://gitee.com/aidenyang1/IMessage_ThemeDocs/raw/main/src/png/%E6%9B%BF%E6%8D%A2%E7%BA%A2%E5%8C%85%E8%BD%AC%E8%B4%A6%E6%B0%94%E6%B3%A1.gif" alt="替换红包转账气泡背景封面" >
+<img src="https://worker.imtheme.site/VWwhmac.gif" alt="替换红包转账气泡背景封面" >
 
 <br>
 如果你想要自己制作 `红包转账气泡背景`，请参照:<br>
@@ -237,7 +235,7 @@
 <br>
 
 (红包转账气泡背景 `PSD项目文件`，按照说明制作后导出按上述方法 `替换` 即可。)
-**(该部分支持原创投稿系列组>6张，投稿邮箱：imessage_theme@163.com，请打水印预审。通过后作为贡献者获赠兑换码)**
+**(该部分支持原创投稿系列组>6 张，投稿邮箱：imessage_theme@163.com，请打水印预审。通过后作为贡献者获赠兑换码)**
 
 <br><br>
 
@@ -256,21 +254,19 @@
 <br>
 
 ## 5.3. 其他素材替换同理
+
 ---
 
+# 6.如何再次 DIY？
 
-# 6.如何再次DIY？
 如果你对本主题部分区域的图标设计和布局设计不满意，你都可以通过`替换同名素材文件`的方式，再次`DIY`。<br>
 
 **确保`Themebox`插件-`主题选项`-`素材加载模式`-`自定义优先`开启。**
 <br>
 
-- **使用其他主题DIY加载**：将需要替换的素材文件丢进 `Themebox` - `diy` - `其他主题文件夹` 内或创建一个子文件夹 `Assets` 用于收纳。
-
-
+- **使用其他主题 DIY 加载**：将需要替换的素材文件丢进 `Themebox` - `diy` - `其他主题文件夹` 内或创建一个子文件夹 `Assets` 用于收纳。
 
 - **使用线上版**：将需要替换的素材文件丢进 `Themebox` - `diy` - `iMessage_For_WeChat` 内或创建一个子文件夹 `Assets` 用于收纳。
-
 
 ---
 
@@ -280,13 +276,13 @@
 
 ## 7.1. 为什么启动黑屏？
 
-因为 `启动图` 是黑色的。如需修改，请将命名为`launch.png`的文件参照[章节6](#6如何再次diy)替换。
+因为 `启动图` 是黑色的。如需修改，请将命名为`launch.png`的文件参照[章节 6](#6如何再次diy)替换。
 
 <br><br><br>
 
 ## 7.2. 怎么解决消息气泡拉伸错位问题？
 
-<img src="https://raw.githubusercontent.com/AidenYang1/iMessageApp_WeChat_For_Themebox/4940b18e88ec064e99043318d6ccece31a5e33d2/png/%E6%B0%94%E6%B3%A1%E4%B8%8D%E6%8B%89%E4%BC%B8%E8%AF%B4%E6%98%8E.png" alt="气泡拉伸不错位修改" width="450" height="auto">
+<img src="https://worker.imtheme.site/yk2HI6K.png" alt="气泡拉伸不错位修改" width="450" height="auto">
 
 <br><br>
 
@@ -297,7 +293,7 @@
 
 ## 7.3. 消息输入栏上方的图标是什么？
 
-<img src="https://raw.githubusercontent.com/AidenYang1/iMessageApp_WeChat_For_Themebox/7486c5e28465bfe00cc0f30994fb60333012833b/png/%E5%BE%AE%E4%BF%A1%E5%8A%A9%E6%89%8B%E5%8D%A0%E4%BD%8D%E5%9B%BE.png" alt="小横线" width="450" height="auto">
+<img src="https://worker.imtheme.site/K26RbTT.png" alt="小横线" width="450" height="auto">
 
 <br><br>
 
@@ -310,9 +306,11 @@
 <br>
 
 ### 7.3.1.上方工具栏消失怎么办？
-WeChat版本`8.0.56`若遇到聊天页底栏上方`微信助手`插件工具栏不显示。
+
+WeChat 版本`8.0.56`若遇到聊天页底栏上方`微信助手`插件工具栏不显示。
+
 - 注入`disableHotupdate.dylib`文件，以禁止热更新。
-- 回退WeChat至`8.0.56`以下。
+- 回退 WeChat 至`8.0.56`以下。
 
 <br><br><br>
 
@@ -321,7 +319,7 @@ WeChat版本`8.0.56`若遇到聊天页底栏上方`微信助手`插件工具栏�
 你可能会注意到 `聊天界面气泡长按功能操作区` 的图标有 `彩色` 和 `纯白色` 图标混合的情况。<br>
 这并非针对这个区域未做适配，当你仔细和官方操作区图标对比，你会发现纯白色的图标也不同。
 
-<img src="https://raw.githubusercontent.com/AidenYang1/iMessageApp_WeChat_For_Themebox/1e4c59e4066930a2e02fc451e470fa534115a0f9/png/%E6%B0%94%E6%B3%A1%E9%95%BF%E6%8C%89%E5%8A%9F%E8%83%BD%E5%8C%BA%E6%93%8D%E4%BD%9C%E8%AF%B4%E6%98%8E.png" alt="气泡长按功能区说明图"  width="400" height="auto">
+<img src="https://worker.imtheme.site/45eAvnu.png" alt="气泡长按功能区说明图"  width="400" height="auto">
 
 <br>
 <br>
@@ -349,7 +347,7 @@ WeChat版本`8.0.56`若遇到聊天页底栏上方`微信助手`插件工具栏�
 
 ## 7.6. 首页搜索栏的图标为什么有白底？
 
-<img src="https://github.com/AidenYang1/IMessage_ThemeDocs/blob/main/src/png/%E9%A6%96%E9%A1%B5%E6%90%9C%E7%B4%A2%E7%95%99%E7%99%BD.png?raw=true" alt="首页搜索栏白底说明图" width="400" height="auto">
+<img src="https://worker.imtheme.site/RIiBfGN.png" alt="首页搜索栏白底说明图" width="400" height="auto">
 
 故意那么设计的，为了点缀。留透明不好看。
 
@@ -357,7 +355,7 @@ WeChat版本`8.0.56`若遇到聊天页底栏上方`微信助手`插件工具栏�
 
 ## 7.7. 深色模式纯黑说明
 
-<img src="https://raw.githubusercontent.com/AidenYang1/iMessageApp_WeChat_For_Themebox/04a268d267ed57e9ee80606fc369424c2f4740ff/png/%E9%A1%B6%E6%A0%8F%E5%B0%8F%E6%A8%AA%E7%BA%BF.png" alt="小横线" width="400" height="auto">
+<img src="https://worker.imtheme.site/vCjjDHw.png" alt="小横线" width="400" height="auto">
 <br><br>
 
 > 更新
@@ -371,7 +369,8 @@ WeChat版本`8.0.56`若遇到聊天页底栏上方`微信助手`插件工具栏�
 <br><br>
 
 ## 7.8. 如何替换蓝色角标为红色角标？
-<img src="https://github.com/AidenYang1/IMessage_ThemeDocs/blob/main/src/png/%E8%A7%92%E6%A0%87%E6%9B%BF%E6%8D%A2.png?raw=true" alt="红色角标说明图" width="400" height="auto">
+
+<img src="https://worker.imtheme.site/wMZpKY9.png" alt="红色角标说明图" width="400" height="auto">
 
 <br><br>
 
@@ -382,12 +381,14 @@ WeChat版本`8.0.56`若遇到聊天页底栏上方`微信助手`插件工具栏�
 <br><br>
 
 ## 7.9. 为什么小程序卡片、转发消息文字无法修改？
+
 该部分受限于`Thmembox`插件逆向限制，无法修改。若后续版本支持，将第一时间适配，并调整优化。
 
 <br><br>
 
 ## 7.10. 使用收纳工具如何设置相应图标？
-<img src="https://github.com/AidenYang1/IMessage_ThemeDocs/blob/main/src/png/%E5%BE%AE%E4%BF%A1%E5%8A%A9%E6%89%8B%E5%A4%B4%E5%83%8F%E8%AE%BE%E7%BD%AE.png?raw=true" alt="收纳工具图标设置说明图" width="400" height="auto">
+
+<img src="https://worker.imtheme.site/lvLBDrD.png" alt="收纳工具图标设置说明图" width="400" height="auto">
 <br><br>
 
 在使用`微信助手`插件-`分组功能`的聊天消息收纳功能（即`群助手`、`服务号助手`、`订阅号助手`）时，可以设置收纳工具栏的图标。
@@ -399,10 +400,11 @@ WeChat版本`8.0.56`若遇到聊天页底栏上方`微信助手`插件工具栏�
 <br><br>
 
 ## 7.11. 如何替换对方消息气泡的起点方向？
-<img src="https://github.com/AidenYang1/IMessage_ThemeDocs/blob/main/src/png/%E6%B6%88%E6%81%AF%E6%B0%94%E6%B3%A1%E6%96%B9%E5%90%91%E5%AF%B9%E6%AF%94.png?raw=true" alt="对方消息气泡起点方向说明图" width="400" height="auto">
+
+<img src="https://worker.imtheme.site/lX6h5o3.png" alt="对方消息气泡起点方向说明图" width="400" height="auto">
 <br><br>
 
-在`v1.2.3`版本中发起了投票，超过60%用户希望保留左下↙起点方向。故放弃使用左上↖起点。
+在`v1.2.3`版本中发起了投票，超过 60%用户希望保留左下 ↙ 起点方向。故放弃使用左上 ↖ 起点。
 
 - **优势**：双方气泡协调方向一致，显示观感更舒适。
 - **劣势**：在群聊中，对方消息存在多行的情况下，气泡起点的方向不会指向发言人的头像。会造成一定几率的误判。
@@ -418,20 +420,18 @@ WeChat版本`8.0.56`若遇到聊天页底栏上方`微信助手`插件工具栏�
 
 <br>
 
-  **目前已归档并留存的以往设计方案有**：
+**目前已归档并留存的以往设计方案有**：
 
-  - 第一版 `通讯录` 全圆头像。
-  - 聊天页输入栏 `OLED` 黑设计。
+- 第一版 `通讯录` 全圆头像。
+- 聊天页输入栏 `OLED` 黑设计。
 
 <br><br><br>
-
 
 # 7.8. 为什么有的地方还没有覆盖？
 
 1. 随着`微信版本`的更新图标素材的命名可能会出现变化，需要及时适配新的规则以使素材生效。
 2. 该主题根据问题反馈和使用体验进行逐步修复完善，属于查漏补缺式更新和维护。
 3. 部分区域和图标受限于`插件逆向`。
-
 
 <br><br><br>
 
@@ -442,15 +442,12 @@ WeChat版本`8.0.56`若遇到聊天页底栏上方`微信助手`插件工具栏�
 <br><br>
 
 1. 聊天页语音消息播放图标无法单独设置。自 WeChat `8.0.55` 版本开始，聊天页语音消息 `我方`、`对方` 改用了逻辑代码水平翻转、`三状态图标` 图层叠加显示为最终未播放状态图标的设计。自主题 `1.2.2` 版本开始，弃用了 `8.0.54` 版本的双方播放条`单独播放、暂停`的设计，如需要请回滚`WeChat`版本到 `8.0.54`。
-2. ~~WeChat 内浏览器访问网页前进按钮错位。@~~(已修复，等待v1.2.4更新)
+2. ~~WeChat 内浏览器访问网页前进按钮错位。@~~(已修复，等待 v1.2.4 更新)
 3. 小程序勾选记住状态、好友详情添加电话号码`加号图标`拉伸。（可自行改用 svg 素材加载）
 4. 公众号右上角搜索为黑。@
 5. **红包转账卡组投稿。@**
 
 <br><br><br>
-
-
-
 
 # 9. 其他我想说的
 
