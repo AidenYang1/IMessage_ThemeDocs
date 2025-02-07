@@ -28,7 +28,7 @@
 > 使用 `Themebox` 兑换码兑换的请直接通过 `Themebox` -右上方的 `空投箱` 下载, 下载后启用本主题即可，详细使用配置请参照第四章节。
 > 已有兑换码还未兑换？前往 [Themebox 主题兑换](https://theme.25mao.com/)进行兑换。
 
-<img src="https://raw.githubusercontent.com/AidenYang1/iMessageApp_WeChat_For_Themebox/9ce3216e3aacba778bcd993d9dd9bc27811b72d5/png/%E9%80%9A%E8%BF%87%E5%85%91%E6%8D%A2%E7%A0%81%E5%85%91%E6%8D%A2%E6%9C%AC%E4%B8%BB%E9%A2%98.png" alt="兑换码下载主题" height="auto">
+<img src="https://gitee.com/aidenyang1/IMessage_ThemeDocs/raw/main/src/png/%E9%80%9A%E8%BF%87%E5%85%91%E6%8D%A2%E7%A0%81%E5%85%91%E6%8D%A2%E6%9C%AC%E4%B8%BB%E9%A2%98.png" alt="兑换码下载主题" height="auto">
 
 <br><br>
 通过此方法可以直接通过主题插件的主题更新提示 `直接更新`，无需手动下载主题包。
@@ -67,7 +67,7 @@
 
 ## 3.1. 如果你是通过其他作者的主题加载 DIY 素材，文件夹你拷对了吗？
 
-<img src="https://raw.githubusercontent.com/AidenYang1/iMessageApp_WeChat_For_Themebox/a7f92e918b155d8d658a09a3ce96b434b0aceaf9/png/%E6%8B%B7%E8%B4%9D%E6%96%87%E4%BB%B6%E5%A4%B9%E6%93%8D%E4%BD%9C.gif" alt="拷贝文件夹设置" width="350" height="auto">
+<img src="https://gitee.com/aidenyang1/IMessage_ThemeDocs/raw/main/src/png/%E6%8B%B7%E8%B4%9D%E6%96%87%E4%BB%B6%E5%A4%B9%E6%93%8D%E4%BD%9C.gif" alt="拷贝文件夹设置" width="350" height="auto">
 
 <br><br>
 
@@ -113,7 +113,7 @@
 
 为获得最好的显示效果，推荐前往微信 `设置` - `通用` - `字体大小` 设置字体大小为 `标准以下`。
 <br><br>
-<img src="https://raw.githubusercontent.com/AidenYang1/iMessageApp_WeChat_For_Themebox/321ea0879e05dcef185fc6197337cd9190e95d5a/png/%E5%BE%AE%E4%BF%A1%E5%AD%97%E4%BD%93%E8%AE%BE%E7%BD%AE.png" alt="微信字体大小设置" width="350" height="auto">
+<img src="https://gitee.com/aidenyang1/IMessage_ThemeDocs/raw/main/src/png/%E5%BE%AE%E4%BF%A1%E5%AD%97%E4%BD%93%E8%AE%BE%E7%BD%AE.png" alt="微信字体大小设置" width="350" height="auto">
 
 <br><br>
 
@@ -123,7 +123,7 @@
 
 ### 4.2.1. 示例图
 
-![主题盒子设置](https://raw.githubusercontent.com/AidenYang1/iMessageApp_WeChat_For_Themebox/a3233ddc9841d9986f2698791be0dc08a69ed7c9/png/%E4%B8%BB%E9%A2%98%E7%9B%92%E5%AD%90%E8%AE%BE%E7%BD%AE%E8%AF%B4%E6%98%8E.png)
+![主题盒子设置](https://gitee.com/aidenyang1/IMessage_ThemeDocs/raw/main/src/png/%E4%B8%BB%E9%A2%98%E7%9B%92%E5%AD%90%E8%AE%BE%E7%BD%AE%E8%AF%B4%E6%98%8E.png)
 
 <div align="center">（完整设置参照图）</div>
 <br>
@@ -227,7 +227,7 @@
 2. 拷贝你想要的 `红包转账气泡封面背景样式文件夹` 内 `所有文件` 到 `Themebox` - `diy` - `其他主题` - `WeChat-iMessage-Themebox` - `Assets` 内覆盖替换本主题默认红包转账气泡背景封面即可。
 
 <br>
-<img src="https://raw.githubusercontent.com/AidenYang1/iMessageApp_WeChat_For_Themebox/a7f92e918b155d8d658a09a3ce96b434b0aceaf9/png/%E6%9B%BF%E6%8D%A2%E7%BA%A2%E5%8C%85%E8%BD%AC%E8%B4%A6%E6%B0%94%E6%B3%A1.gif" alt="替换红包转账气泡背景封面" >
+<img src="https://gitee.com/aidenyang1/IMessage_ThemeDocs/raw/main/src/png/%E6%9B%BF%E6%8D%A2%E7%BA%A2%E5%8C%85%E8%BD%AC%E8%B4%A6%E6%B0%94%E6%B3%A1.gif" alt="替换红包转账气泡背景封面" >
 
 <br>
 如果你想要自己制作 `红包转账气泡背景`，请参照:<br>
