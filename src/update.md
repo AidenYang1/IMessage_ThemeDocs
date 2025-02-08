@@ -31,7 +31,7 @@
 - 新增`群公告`-`编辑工具栏`、`网页浏览器商品分类`适配。
 - 新增红包转账卡组:`10《数字货币交易所》`系列 5 张。
 
-![红包转账卡组](https://worker.imtheme.site/69RUUzH.png)
+<img src="https://worker.imtheme.site/69RUUzH.png" alt="红包转账卡组" width="500">
 
 ### 其他
 
