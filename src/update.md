@@ -8,7 +8,7 @@
 
 继续使用`v1.2.3`版本，自行基于正式版更新的新增命名整理适配，**但不再提供素材**。
 
-<br><br>
+<br>
 
 # 2.更新
 
@@ -71,7 +71,7 @@
 |   收藏页长按标签   |                                                     tag_filled                                                     |                                  /                                   |
 |    全局关闭按钮    |       xmark_filled<br>xmark_regular<br>icons_outlined_close<br>icons_filled_close5<br>icons_filled_close<br>       |                               全局关闭                               |
 
-（如需图标尺寸完全按照`UIImageView`或`Layout`视图渲染显示，不出现任何尺寸**偏大偏小**问题，请使用`svg`素材。由于`svg`素材受`xml`文件影响较大，请自行结合其他方案调整。）
+（如需图标尺寸完全按照`UIImageView`或`Layout`视图渲染显示，不出现任何尺寸**偏大偏小**问题，请使用`svg`素材。由于`svg`素材受`xml`文件影响较大，请自行结合其他方案调整。）<br>
 **（仅整理在以往版本未出现的命名，且优化调整、问题修复部分命名不整理。请自行参考以往开源文件查看对应命名或使用归档的 Sketch 项目文件自行 DIY,如有问题请通过 [issue](https://github.com/AidenYang1/iMessageApp_WeChat_For_Themebox/issues)反馈）**
 
 <br><br>
