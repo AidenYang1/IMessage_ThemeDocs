@@ -4,7 +4,7 @@
 
 # 1. 下载归档版本
 
-一切的工作都基于`v1.2.3`版本。请先下载[最后归档版本](https://github.com/AidenYang1/iMessageApp_WeChat_For_Themebox/releases/tag/formal-v1.2.3)。
+一切的工作都基于`v1.2.3`版本。请先下载[最后归档版本](https://github.com/AidenYang1/iMessageApp_WeChat_For_Themebox/releases)。
 
 继续使用`v1.2.3`版本，自行基于正式版更新的新增命名整理适配，**但不再提供素材**。
 
