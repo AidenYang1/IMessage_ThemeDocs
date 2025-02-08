@@ -4,7 +4,7 @@
 
 # 1. 下载归档版本
 
-一切的工作都基于`v1.2.3`版本。请先下载[最后归档版本](https://github.com/AidenYang1/iMessageApp_WeChat_For_Themebox/releases)。
+一切的工作都基于`v1.2.3`归档版本。请先下载[最后归档版本](https://github.com/AidenYang1/iMessageApp_WeChat_For_Themebox/releases)。
 
 继续使用`v1.2.3`版本，自行基于正式版更新的新增命名整理适配，**但不再提供素材**。<br>
 (线上版无需自行DIY，直接查看更新说明并更新即可。)
@@ -12,7 +12,7 @@
 <br>
 
 # 2.更新
-- **线上版**赞助者请更新`Themebox`至`1.1.6`，直接使用插件**一键更新**到最新完整版本。
+- **线上版**赞助者请更新`Themebox`至`1.1.6`，直接使用插件**一键更新**到最新完整v1.2.4版本。
 
 ## v1.2.4（正式版）
 
