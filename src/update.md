@@ -7,7 +7,8 @@
 一切的工作都基于`v1.2.3`归档版本。请先下载[最后归档版本](https://github.com/AidenYang1/iMessageApp_WeChat_For_Themebox/releases)。
 
 继续使用`v1.2.3`版本，自行基于正式版更新的新增命名整理适配，**但不再提供素材**。<br>
-(线上版无需自行DIY，直接查看更新说明并更新即可。)
+(线上版无需自行DIY，直接查看更新说明并更新即可。[打赏赞助](https://weidian.com/item.html?itemID=7385357613&spider_token=b6d5)使用线上版)
+
 
 <br>
 
